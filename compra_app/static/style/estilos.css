@@ -8,3 +8,15 @@ body{
     color: royalblue;
     font-size: 15px;
 }
+
+#ape {
+    color:blue;
+    font-size: 500px;
+    border: red 2px solid;
+
+}
+
+#color {
+    background-color: #CC1414;
+
+}
